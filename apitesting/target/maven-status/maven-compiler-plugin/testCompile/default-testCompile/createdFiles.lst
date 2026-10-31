@@ -1,0 +1,5 @@
+POST\PostLogin.class
+Test\BookingFrameworkTest.class
+resource\Booking.class
+resource\BookingDates.class
+resource\Login.class
